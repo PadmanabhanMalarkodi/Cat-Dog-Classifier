@@ -8,7 +8,9 @@ Classifying cat and dog images is a common computer vision project, and you can 
 ## 1. Set Up Your Environment:
 Install Python and necessary libraries, such as NumPy, pandas, scikit-learn.
 ## 2. Data Acquisition:
-Download the cat and dog image dataset from Kaggle or any other reputable source. Kaggle often provides preprocessed datasets, making it a convenient choice.
+* Download the cat and dog image dataset from Kaggle or any other reputable source. Kaggle often provides preprocessed datasets, making it a convenient choice.
+* You can download the data set from the given data source.
+* https://www.kaggle.com/datasets/chetankv/dogs-cats-images?resource=download
 ## 3. Data Exploration:
 Load the dataset and explore it to understand its structure, size, and the distribution of cat and dog images. Visualization libraries like Matplotlib or Seaborn can be helpful.
 ## 4. Data Preprocessing:
